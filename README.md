@@ -18,7 +18,7 @@
 
 ###
 
-<h5 align="left">📚 I'm currently learning Spring Boot, Jetpack Compose, Design Patterns.</h5>
+<h5 align="left">📚 I'm currently working with Spring Boot, React, React Native and NextJs.</h5>
 
 ###
 
